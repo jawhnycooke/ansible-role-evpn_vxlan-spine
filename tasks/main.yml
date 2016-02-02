@@ -1,2 +1,5 @@
 ---
 # tasks file for spine
+- hosts: spines
+  include: features.yml
+
