@@ -13,8 +13,6 @@ galaxy_info:
   categories:
   - networking
 
-  dependencies:
-  - role: rogerscuall.ansible-role-evpn_vxlan-leaf
 
 
   
