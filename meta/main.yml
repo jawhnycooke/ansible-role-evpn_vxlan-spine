@@ -13,7 +13,7 @@ galaxy_info:
   categories:
   - networking
 
-  dependencies:
-  - { role: stouts.elasticsearch }
+  dependencies: [{ role: stouts.elasticsearch }]
+
 
   
