@@ -14,7 +14,7 @@ galaxy_info:
   - networking
 
 dependencies:
- - {role: rogerscuall.ansible-role-evpn_vxlan-spine }
+ - {role: rogerscuall.ansible-role-evpn_vxlan-leaf }
 
 
   
