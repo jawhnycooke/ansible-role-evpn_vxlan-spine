@@ -13,8 +13,7 @@ galaxy_info:
   galaxy_tags:
   - networking
 
-dependencies:
- - {role: rogerscuall.ansible-role-evpn_vxlan-leaf }
+dependencies: []
 
 
   
